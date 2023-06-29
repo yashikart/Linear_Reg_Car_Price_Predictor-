@@ -1,4 +1,3 @@
 # Linear_Reg_Car_Price_Predictor-
-This was provided by someone else from the Youtube channel CampusX. 
-I used Octoparese to grab data from the Quikr website.
-We can predict the price of a used car based on the brand name, model, fuel type, year the brand was purchased, and the number of km driven.  
+I learned this on YouTube.  I scraped the data from the Quikr website through the Octoparse programme.
+I used libraries such as pandas, numpy, matplotlib, and seaborn.Click this given link. http://127.0.0.1:5000/  
