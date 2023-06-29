@@ -11,6 +11,6 @@ Choose the desired Brand Name under "Select the Company" first.
 
 The model for the brand you chose will be displayed in the "Select the car Model" field. select the fuel of your choice form in "Select the Fuel Type" and the year in "Select the Year of Purchase." 
 
-Then type in the text box the number of km you have travelled, such as 400, 1200, 3100, etc. Next, select Predict. 
+Then type in the text box the number of km you have travelled, such as 400, 1200, 3100, etc. Next, Click on Predict Button. 
 
 The Car Prize will be shown on the same page as you click the Button.
