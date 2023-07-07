@@ -5,9 +5,7 @@ I used Python and libraries such as pandas, numpy, matplotlib, and seaborn.
 
 Application used DataSpell and Jupiter Notebook.
 
-Algorithm - Linear Regression
-
-Click on this given link. http://127.0.0.1:5000/  
+Algorithm - Linear Regression 
 
 Choose the desired Brand Name under "Select the Company" first.
 
